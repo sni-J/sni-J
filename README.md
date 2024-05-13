@@ -1,4 +1,4 @@
-## Hello, there!:wave:
+## Hello, there! :wave:
 
 **Web Frontend Developer**
 
